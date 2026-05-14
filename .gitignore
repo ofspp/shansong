@@ -1,0 +1,26 @@
+# === Node ===
+node_modules/
+.npm-cache/
+
+# === Java ===
+target/
+*.class
+*.jar
+*.war
+
+# === IDE ===
+.idea/
+*.iml
+
+# === OS ===
+.DS_Store
+Thumbs.db
+
+# === Uploads ===
+uploads/
+
+# === 毕业设计论文（不上传） ===
+*毕业设计*
+*开题报告*
+*中期检查*
+*论文*
